@@ -1,0 +1,16 @@
+release/barwidget.o
+release/chatswindow.o
+release/chatusers.o
+release/listelement.o
+release/main.o
+release/mainwindow.o
+release/messagechat.o
+release/tissue_server.o
+release/useraccount.o
+release/moc_barwidget.o
+release/moc_chatswindow.o
+release/moc_chatusers.o
+release/moc_listelement.o
+release/moc_mainwindow.o
+release/moc_tissue_server.o
+release/moc_useraccount.o
